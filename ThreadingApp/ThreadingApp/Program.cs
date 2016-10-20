@@ -10,6 +10,8 @@ namespace ThreadingApp
     {
         static void Main(string[] args)
         {
+            // Nothing here
+            // See available project
         }
     }
 }
