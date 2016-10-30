@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingApp", "ThreadingAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction", "Introduction\Introduction.csproj", "{6B4048A7-2B9F-4BF4-A925-7592C1698454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool", "ThreadPool\ThreadPool.csproj", "{213204F6-535A-4B71-8DB1-CAECEC25DFF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B4048A7-2B9F-4BF4-A925-7592C1698454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4048A7-2B9F-4BF4-A925-7592C1698454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4048A7-2B9F-4BF4-A925-7592C1698454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213204F6-535A-4B71-8DB1-CAECEC25DFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213204F6-535A-4B71-8DB1-CAECEC25DFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213204F6-535A-4B71-8DB1-CAECEC25DFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213204F6-535A-4B71-8DB1-CAECEC25DFF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
